@@ -1,5 +1,7 @@
 # Soil Moisture State Estimation using Sparse Sensor Networks
 
+** Author: Souvik Roy, Amin Pashaei Kalajahi, Zayeed Bin Mamun, Sangeeta Yadav, Roshan M. D'souza
+
 This repository presents a data-driven approach for soil moisture estimation in precision agriculture, combining Compressed Sensing (CS), Dynamic Mode Decomposition with Control (DMDc), and Kalman Filtering. The method reduces the need for dense sensor deployments while maintaining accurate soil moisture state estimation. Data is generated via a 3D Finite Element Simulation of the Richards Equation with evapotranspiration boundary conditions.
 
 ## Overview
@@ -117,3 +119,6 @@ jupyter notebook DMD.ipynb
 
 ## License
 To be determined (Contact authors for details).
+
+## Acknowlegement
+This paper is submitted to publish in Computers and Electronics in Agriculture. Authors are not responsible for successful execution of the code as there might be some update in the libraires associated with it.
